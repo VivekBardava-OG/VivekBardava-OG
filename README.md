@@ -2,11 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Vivek%20Bardava&fontColor=FFFFFF&fontSize=45&fontAlignY=40&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60"/>
 
-# Hi 👋 I'm Vivek Bardava
-
 ### AI & Data Science Student • Python Developer • Building AI that Solves Real Problems
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Full+Stack+Learner;Building+AI+Projects;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Vivek+Bardava;AI+%26+Data+Science+Student;Python+Developer;Building+AI+That+Solves+Real+Problems;Open+Source+Contributor;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+</p>
 
 <br>
 
@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://x.com/vivekbardava">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://www.codedex.io/@vivekbardava">
@@ -42,9 +42,28 @@
 
 ---
 
-# 💫 About Me:
-## Hi there 👋 I'm Vivek<br><br>🔭 **I’m currently working on:** Building AI-powered projects, improving my Python skills, and developing modern web applications.<br><br>🤝 **I’m looking to collaborate on:** Open-source projects, AI/ML applications, and full-stack web development.<br><br>👐 **I’m looking for help with:** Advanced machine learning, backend architecture, and system design.<br><br>🌱 **I’m currently learning:** Data Structures & Algorithms, FastAPI, React, and AI Engineering.<br><br>💬 **Ask me about:** Python, HTML, CSS, JavaScript, Git & GitHub, NumPy, Pandas, Matplotlib, and beginner AI projects.<br><br>⚡ **Fun fact:** I love turning ideas into real projects and I'm always excited to learn something new every day. 🚀<br>
+## 🚀 About Me
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 **AI & Data Science Student**
+
+💻 Passionate about building AI and Web applications
+
+🌱 Currently learning
+- FastAPI
+- React
+- Data Structures & Algorithms
+
+🚀 Working on
+- AI Projects
+- Client Websites
+- Open Source
+
+🎯 Goal
+> Become a world-class AI Engineer.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekbardava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekbardava) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VivekBardava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekbardava@gmail.com) 
